@@ -1,0 +1,4 @@
+-	AUT classes 
+-	Classes for different types of scripts. Use Script object to handle multiple scripts
+-	Result logging
+-	Error Recovery

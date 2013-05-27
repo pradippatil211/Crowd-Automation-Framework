@@ -1,0 +1,1 @@
+Each active project directory will have sub-dirs for Test suites to add all sorts of scripts, Object maps, function libs specific to that project, Application runner to launch, run and recover the AUT
